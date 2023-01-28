@@ -31,7 +31,7 @@ class ChatPage extends StatefulWidget {
 }
 
 Future<String> generateResponse(String prompt) async {
-  const apiKey = "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";
+  const apiKey = "TOKEN";
 
   var url = Uri.https("api.openai.com", "/v1/completions");
   final response = await http.post(
