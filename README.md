@@ -1,16 +1,17 @@
-# flutter_chatgpt_example_stable
+<h2 align="center">Flutter ChatGPT Example Stable</h2>
 
-A new Flutter project.
+###
 
-## Getting Started
+<p align="left">This project is a remaster of the original flutter_chatgpt_example file,<br>New features and updates such as language support for other languages, simpler code have been added.</p>
 
-This project is a starting point for a Flutter application.
+###
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+  <img height="600" src="https://i.imgflip.com/794p1k.jpg"  />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+###
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="left">Sources: https://github.com/ngjunya/flutter_chatgpt_example</p>
+
+###
